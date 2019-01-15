@@ -91,8 +91,8 @@ Save the file as `Hello.java` (case sensitive).
 Compile it with 
 
 ```console
-javac Hello.java
-java Hello
+$ javac Hello.java
+$ java Hello
 ```
 
 #### Hello World with C++
