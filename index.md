@@ -6,6 +6,8 @@ description: A workshop for students intended to get them started with Linux. Ho
 Welcome to the Linux Crash Course!
 Please open this website on your phone for later reference!
 
+![Tux Penguin](Tux.png)
+
 ## https://uwb-acm.github.io/Linux-Crash-Course
 
 ## Sign-In Link
@@ -126,3 +128,5 @@ Hello World!
 $ ssh netid@uw1-320-lab
 $ scp Hello.java netid@uw1-320-lab
 ```
+
+## Learn about UWB ACM at [uwbacm.com](https://uwbacm.com)
