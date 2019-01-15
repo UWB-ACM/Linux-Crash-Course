@@ -38,7 +38,7 @@ Lines that begin with `$` indicate user input, other lines will show expected ou
 #### Hello World
 
 ```console
-$ echo "Hello World"
+$ echo "Hello World!"
 Hello World!
 $ pwd
 /home/ubuntu
