@@ -4,17 +4,31 @@ description: A workshop for students intended to get them started with Linux. Ho
 ---
 
 Welcome to the Linux Crash Course!
-Please open this website on your phone for later reference! <link goes here>
+Please open this website on your phone for later reference!
+
+## https://uwb-acm.github.io/Linux-Crash-Course
 
 ## Sign-In Link
 
-Please sign-in by adding your name and e-mail address to this list: <link TBD>
+Please sign-in by adding your name and e-mail address to this list: **TODO**
+
+## Before We Begin...
+
+1. Please pick up **one** flash drive from an ACM officer. This drive has already been formatted
+  with the latest **Ubuntu 18.04 LTS** installation image for you.
+  
+2. Open this website on your phone, for later reference! https://uwb-acm.github.io/Linux-Crash-Course
+
+3. (Optional) If you have a newer computer running Windows 10, you may have to disable Secure Boot.
+  [Please follow the instructions listed here.](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/disabling-secure-boot)
+  
+4. Turn off your laptop, as we will start booting in Linux shortly. (Not sleep mode or hibernation!)
 
 ## Resources
 
 [Slides and presentation material by Aidan Hahn](https://gitlab.com/whom/linux-workshop-fall-2018)
 
-[TODO Commands Reference Cheat Sheet](todo)
+[Commands Reference Cheat Sheet](/LinuxLab_CheatSheet.pdf)
 
 ### Command Examples
 
