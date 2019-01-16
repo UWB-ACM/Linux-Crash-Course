@@ -12,7 +12,7 @@ Please open this website on your phone for later reference!
 
 ## Sign-In Link
 
-Please sign-in by adding your name and e-mail address to this list: **TODO**
+[Please sign-in by submitting your name and UW e-mail address here: https://goo.gl/forms/oSl9sYt2PzJfE4GV2](https://goo.gl/forms/oSl9sYt2PzJfE4GV2)
 
 ## Before We Begin...
 
